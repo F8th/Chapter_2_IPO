@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 2 - Exercise 2
+
 # Define constant for return on sales
 RETURN_ON_SALES = 0.23
 
